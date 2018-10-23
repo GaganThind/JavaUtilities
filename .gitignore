@@ -27,3 +27,6 @@ src/in/gagan/test/*
 
 bin/*
 bin/
+.settings
+.classpath
+.project
